@@ -76,7 +76,7 @@
             "children" : [ {
               "attributes" : {
                 "dxpStyle" : { },
-                "flowName" : "{\"flowName\":\"Multi_Screen_Donation_Flow\",\"flowLabel\":\"Multi Screen Donation Flow\"}"
+                "flowName" : "{\"flowName\":\"Donation_Flow\",\"flowLabel\":\"Donation Flow\"}"
               },
               "customCssClasses" : "flow",
               "definition" : "dxp_flow:flow",
