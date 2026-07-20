@@ -86,7 +86,7 @@
       "FormElementInputPlaceholderColor" : "rgb(118, 113, 107)",
       "FormElementLabelColor" : "rgb(76, 79, 87)",
       "FormElementLabelFont" : "var(--dxp-s-html-font-family)",
-      "FormElementLabelFontSize" : "0.875rem",
+      "FormElementLabelFontSize" : "1rem",
       "FormElementLabelFontStyle" : "normal",
       "FormElementLabelFontWeight" : "300",
       "FormElementLabelLetterSpacing" : "0",
