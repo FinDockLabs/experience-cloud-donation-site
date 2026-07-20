@@ -14,9 +14,11 @@
     --slds-c-input-shadow: none;
 }
 
-lightning-primitive-input-checkbox {
-    display: block;
-    margin-top: 10px;
+.slds-select_container .slds-select {
+    padding-left: var(--slds-c-input-spacing-inline-start, var(--sds-c-input-spacing-horizontal-start, var(--dxp-s-form-element-spacing-horizontal-start, 12px)));
+    padding-top: var(--dxp-s-form-element-spacing-block-start, 0);
+    padding-bottom: var(--dxp-s-form-element-spacing-block-end, 0);
+    height: calc(var(--dxp-s-form-element-text-line-height) + var(--dxp-s-form-element-spacing-block-start) + var(--dxp-s-form-element-spacing-block-end));
 }
 
 flowruntime-lwc-body {
